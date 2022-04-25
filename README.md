@@ -38,8 +38,8 @@
 
 
 
-[website]: https://google.com
-[twitter]: https://twitter.com/
+[website]: https://faketi.me
+[twitter]: https://twitter.com/faketi101
 [youtube]: https://www.youtube.com/channel/UCyjlCsSWn8-dnyoTvYg7TDw
 [instagram]: https://instagram.com/_ti_tamim/
 [facebook]: https://facebook.com/fake.ti.101
