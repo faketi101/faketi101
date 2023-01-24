@@ -38,7 +38,7 @@
 
 
 
-[website]: https://faketi.me
+[website]: https://faketi.xyz
 [twitter]: https://twitter.com/faketi101
 [youtube]: https://www.youtube.com/channel/UCyjlCsSWn8-dnyoTvYg7TDw
 [instagram]: https://instagram.com/_ti_tamim/
