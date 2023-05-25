@@ -10,7 +10,7 @@
 <br>
 
 -  All of my projects are available at [https://faketi.xyz](https://faketi.xyz)
-
+<br>
 
 -  How to reach me **hello@faketi.xyz**
 <br>
