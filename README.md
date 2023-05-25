@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Tarikul Islam</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
+<img src="https://cdn.discordapp.com/attachments/1044278457074454548/1111282390577459350/giphy.gif" width="400" align="right" alt="coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faketi101&label=Profile%20views&color=95d600&style=flat-square" alt="faketi101" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack Development**
@@ -10,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://faketi.xyz](https://faketi.xyz)
 
 - 💬 Ask me about **js, react, mongo.**
+
+- 📫 How to reach me **hello@faketi.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +32,9 @@
 <p><a href="https://www.buymeacoffee.com/tarikul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tarikul" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faketi101&show_icons=true&theme=dark&title_color=97d600&text_color=97d600&bg_color=272727&locale=en&layout=compact" alt="faketi101" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faketi101&show_icons=true&theme=dark&title_color=97d600&text_color=ffffff&bg_color=272727&locale=en&layout=compact" alt="faketi101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faketi101&show_icons=true&theme=dark&title_color=97d600&text_color=97d600&bg_color=272727&locale=en" alt="faketi101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faketi101&show_icons=true&theme=dark&title_color=97d600&text_color=ffffff&bg_color=272727&locale=en" alt="faketi101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faketi101&theme=default" alt="faketi101" /></p>
 
