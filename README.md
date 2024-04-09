@@ -9,10 +9,10 @@
 
 <br>
 
--  All of my projects are available at [https://faketi.xyz](https://faketi.xyz)
+-  All of my projects are available at [ https://tarikul.dev]( https://tarikul.dev/)
 <br>
 
--  How to reach me **hello@faketi.xyz**
+-  How to reach me **hello@tarikul.dev**
 <br>
 <br>
 <br>
@@ -31,10 +31,10 @@
 
 #### Connect with ME
 [![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=F0DB4F)](https://leetcode.com/faketi101/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/fake.ti.101)
-[![Facebook Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ti_tamim)
-[![Mail Badge](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:hello@faketi.xyz)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://faketi.xyz)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tarikull.dev)
+[![Facebook Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarikul.dev)
+[![Mail Badge](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:hello@tarikul.dev)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tarikul.dev)
 [![BuyMeACoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tarikul)
 <br><br>
 
