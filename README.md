@@ -32,7 +32,7 @@
 #### Connect with ME
 [![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=F0DB4F)](https://leetcode.com/faketi101/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tarikul.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/its-tarikul-islam)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/its-tarikul-islam)
 [![Mail Badge](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:hello@tarikul.dev)
 [![Facebook Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarikul.dev)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tarikull.dev)
