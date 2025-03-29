@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tarikul Islam</h1>
+<h1 align="center">Hi, I'm TARIKUL ISLAM</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=faketi101&label=Profile%20views&color=95d600&style=flat-square" alt="faketi101" /> </p>
 <img src="https://cdn.discordapp.com/attachments/1044278457074454548/1111282390577459350/giphy.gif" width="400" align="right" alt="coding">
