@@ -1,64 +1,186 @@
-<h1 align="center">Hi, I'm TARIKUL ISLAM</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=faketi101&label=Profile%20views&color=95d600&style=flat-square" alt="faketi101" /> </p>
-<img src="https://cdn.discordapp.com/attachments/1044278457074454548/1111282390577459350/giphy.gif" width="400" align="right" alt="coding">
+<div align="center">
+  
+# 👋 Hey there, I'm Tarikul Islam
 
-<br>
+### 💻 Programmer | Full Stack Developer | 🚀 MERN Stack Enthusiast | ☁️ Cloud Explorer
 
--  I’m currently working on **MERN Stack Development**
+<img src="https://komarev.com/ghpvc/?username=faketi101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tarikul.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/its-tarikul-islam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti@tarikul.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/faketi101/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/its_tarikul/)
 
--  All of my projects are available at [ https://tarikul.dev]( https://tarikul.dev/)
-<br>
+</div>
 
--  How to reach me **hello@tarikul.dev**
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+### 🧑‍💻 About Me
 
-#### My Top Technologies
-<!-- TODO: Make technologies links takes you to repositories -->
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB](https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![Express Badge](https://img.shields.io/badge/-expressjs-3c873a?style=for-the-badge&labelColor=black&logo=express&logoColor=68a063)](#)[![Python Badge](https://img.shields.io/badge/-python-FFD43B?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#)
+```javascript
+const tarikul = {
+    location: "🌍 Earth",
+    role: "Programmer & Full Stack Developer",
+    currentFocus: "Building scalable web applications",
+    learning: ["TypeScript", "Docker", "AWS", "Next.js"],
+    techStack: {
+        frontend: ["React", "Next.js", "Vite", "TailwindCSS", "Three.js", "Framer Motion"],
+        backend: ["Node.js", "Express", "MongoDB", "GraphQL", "Prisma", "REST APIs"],
+        tools: ["Git", "Docker", "VS Code", "Postman"],
+        languages: ["JavaScript", "TypeScript", "Python", "C++"]
+    },
+    philosophy: "Creating fast, maintainable, and scalable systems with clean architecture",
+    principles: ["Clean Code", "Responsive Design", "Modern JavaScript", "Best Practices"],
+    askMeAbout: ["Web Dev", "APIs", "Tech", "Coffee ☕"],
+    funFact: "I debug with console.log() and I'm not ashamed 🐛"
+};
+```
 
+<br clear="right"/>
 
-<br><br>
+---
 
-#### Connect with ME
-[![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=F0DB4F)](https://leetcode.com/faketi101/)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tarikul.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/its-tarikul-islam)
-[![Mail Badge](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:hello@tarikul.dev)
-[![Facebook Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tarikul.dev)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tarikull.dev)
-[![BuyMeACoffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tarikul)
-<br><br>
+### 🛠️ Tech Stack & Tools
 
-#### My Code Helpers
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-| Topic                             | Tech and Tool                                                             |
-| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Languages                      | [![JavaScript Language Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)](#)[![TypeScript Language Badge](https://img.shields.io/badge/typescript-3178c8?style=for-the-badge&logo=typescript&logoColor=3178c8&labelColor=black)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![C Language Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&)](#) [![C Language Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white&)](#) [![JavaScript Language Badge](https://img.shields.io/badge/python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E&labelColor=black)](#)|
-|Frameworks & Library     | [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)                                            |
-|Database                    | [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|Deployment | [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)                                                                                                                                                                                                            |
-| Tools                  | [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)     [![VSCode Badge](https://img.shields.io/badge/vscode-3178c8?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)                                                                                                                                                                                                                                                                                                                                      |
+#### 🚀 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
+#### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-<br>
+#### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<b>My GitHub Stats</b>
+#### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-<a href="http://www.github.com/faketi101"><img src="https://github-readme-stats.vercel.app/api?username=faketi101&show_icons=true&hide=&count_private=true&title_color=95d600&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="faketi101's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/faketi101"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faketi101&stroke=ffffff&background=1c1917&ring=95d600&fire=95d600&currStreakNum=ffffff&currStreakLabel=95d600&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📊 GitHub Statistics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faketi101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faketi101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faketi101&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/tarikul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faketi101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faketi101&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📈 Contribution Stats
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faketi101&theme=tokyonight)
+
+</div>
+
+---
+
+### 🎯 Current Focus
+
+- 🔭 Building full-stack applications with **MERN Stack**
+- 🌱 Learning **TypeScript**, **Docker**, and **AWS**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, Web Development**
+- 📫 Reach me at: **ti@tarikul.dev**
+- ⚡ Fun fact: **Coffee = Code ☕💻**
+
+### 💡 Development Philosophy
+
+> *My focus is always on creating **fast, maintainable, and scalable systems** — following clean architecture principles and responsive design standards — while staying up to date with emerging technologies and best practices in modern JavaScript development.*
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarikul.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/its-tarikul-islam)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/its_tarikul/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/snowtech.tarikul.dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/showtech.tarikul.dev/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/faketi101/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ti@tarikul.dev)
+
+</div>
+
+---
+
+### ☕ Support My Work
+
+<div align="center">
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tarikul)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+**Made with ❤️ and lots of ☕**
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+</div>
