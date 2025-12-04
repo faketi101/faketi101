@@ -25,7 +25,7 @@ const tarikul = {
     location: "🌍 Earth",
     role: "Programmer & Full Stack Developer",
     currentFocus: "Building scalable web applications",
-    learning: ["TypeScript", "Docker", "AWS", "Next.js"],
+    learning: ["TypeScript", "Docker", "AWS"],
     techStack: {
         frontend: ["React", "Next.js", "Vite", "TailwindCSS", "Three.js", "Framer Motion"],
         backend: ["Node.js", "Express", "MongoDB", "GraphQL", "Prisma", "REST APIs"],
