@@ -93,16 +93,13 @@ const tarikul = {
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faketi101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faketi101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+  
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=faketi101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faketi101&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=faketi101&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faketi101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<!-- ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=faketi101&layout=compact&langs_count=8&theme=tokyonight&hide_border=true) -->
+
 </div>
 
 ---
@@ -110,8 +107,17 @@ const tarikul = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faketi101&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+
+
+
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=faketi101&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&wantAll=true)
+
+
+
 </div>
+
+
 
 ---
 
@@ -120,6 +126,10 @@ const tarikul = {
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faketi101&theme=tokyonight)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faketi101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 </div>
 
