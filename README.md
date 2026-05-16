@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there, I'm Tarikul Islam
+# 👋 Hey there, I'm TARIKUL ISLAM
 
 ### 💻 Programmer | Full Stack Developer | 🚀 MERN Stack Enthusiast | ☁️ Cloud Explorer
 
