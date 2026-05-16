@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey there, I'm TARIKUL ISLAM
+# Hey there, I'm TARIKUL ISLAM
 
-### 💻 Programmer | Full Stack Developer | 🚀 MERN Stack Enthusiast | ☁️ Cloud Explorer
+### Programmer | Developer | Tech Enthusiast | Cloud Explorer
 
 <img src="https://komarev.com/ghpvc/?username=faketi101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
